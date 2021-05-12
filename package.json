@@ -1,0 +1,24 @@
+{
+  "name": "aiware-integration",
+  "version": "1.0.0",
+  "description": "Maintained by `Ethan Cordes - github.com/ecordes-vt`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veritone/aiware-integration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veritone/aiware-integration/issues"
+  },
+  "homepage": "https://github.com/veritone/aiware-integration#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.6.0"
+  }
+}
